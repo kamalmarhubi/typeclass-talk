@@ -1,0 +1,8 @@
+{
+  "name": "A quick intro to type classes",
+  "author": "Kamal Marhubi",
+  "sections": [
+    {"section": "basics"},
+    {"section": "comparison"}
+  ]
+}
